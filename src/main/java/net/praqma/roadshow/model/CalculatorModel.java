@@ -1,5 +1,6 @@
 package net.praqma.roadshow.model;
 
+SHOULD NOT COMPILE 
 /**
  * Class representing the functionality we wish to support.
  * 
