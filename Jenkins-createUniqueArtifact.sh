@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+fail
 # This build step ensures unique build artifacts are stored for later reference
 # to be copied between jobs (copy artifact, archive artifact and fingerprinter).
 # It enabled they can be saved as release artifacts, further it ensures that
