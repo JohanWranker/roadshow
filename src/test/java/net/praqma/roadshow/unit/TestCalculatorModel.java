@@ -5,6 +5,7 @@ import net.praqma.roadshow.model.CalculatorModelImpl;
 import static org.junit.Assert.assertEquals;
 import org.junit.BeforeClass;
 import org.junit.Test;
+now please fail
 
 public class TestCalculatorModel {
 
